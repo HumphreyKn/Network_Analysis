@@ -1,0 +1,29 @@
+#header .title {
+  background-image: url('img/top.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  width: 100%;
+  padding: 20px;
+  margin: 0;
+  color: white;
+  /*** uncomment this and the above if you want the banner to span the whole document, beyond the margins
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-align: center;
+  ***/
+}
+
+/***
+#header .date {
+  margin-top: 200px;
+}
+
+***/
+
+h2 {
+  color:  green;
+}   
+
+
